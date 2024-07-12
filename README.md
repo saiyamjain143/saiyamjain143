@@ -1,13 +1,15 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/> 
 
-# Hey there! I am Faraz  ![Profile Visits](https://komarev.com/ghpvc/?username=SFarazH) 
+![](https://hit.yhype.me/github/profile?user_id=31028359)
+
+# Hey there! I am Saiyam  ![Profile Visits](https://komarev.com/ghpvc/?username=saiyamjain143) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-faraz-hasan) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfarazhasan1@gmail.com) 
 
 
 
-💻 Currently working in MERN!
+💻 Currently working as Full Stack .Net Developer!
 
-👨‍🎓 B.Tech in CSE w/ Honors in Data Science
+👨‍🎓 B.E in Computer Science
 
 🚀 Aim to contribute to open-source projects
 
@@ -39,8 +41,8 @@
 <br />
 
 ### 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=SFarazH&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/> <br/>
-![](https://streak-stats.demolab.com/?user=SFarazH&theme=radical&hide_border=false)<br/> <br/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFarazH&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=saiyamjain143&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/> <br/>
+![](https://streak-stats.demolab.com/?user=saiyamjain143&theme=radical&hide_border=false)<br/> <br/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiyamjain143&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
